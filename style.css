@@ -32,7 +32,7 @@ padding-top:10px;
 padding-left:30px;
 padding-right:5px;
 background-image:url(images/nemsda.PNG);
-background-position: center;
+background-position: relative;
 background-repeat:no-repeat;
 height:125px;
 width:1200px;
@@ -228,6 +228,7 @@ padding-bottom:5px;
 {
 	background-image:url(images/main_top.jpg);
 	background-repeat:no-repeat;
+	background-position:relative;
 	width:1200px;
 	height:15px;
 }
@@ -236,6 +237,7 @@ padding-bottom:5px;
 {
 background-image:url(images/main_back.png);
 background-repeat:repeat-y;
+	background-position:relative;
 width:950px;
 padding-left:15px;
 }
@@ -244,6 +246,7 @@ padding-left:15px;
 {
 background-image:url(images/main_bottom.jpg);
 background-repeat:no-repeat;
+	background-position:relative;
 margin-top:5px;
 width:950px;
 height:15px;
