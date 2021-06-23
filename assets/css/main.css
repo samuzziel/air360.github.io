@@ -36,7 +36,7 @@ body {
 #middle {
 	background: #fff;
 	margin-right: auto;
-    margin-left: auto;
+    margin-left: 20px;
     padding-right: 15px;
     padding-left: 15px;
     width: 100%;
